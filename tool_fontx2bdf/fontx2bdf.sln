@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fontx2bdf", "fontx2bdf\fontx2bdf.vcproj", "{52FB3C63-01B9-4A0C-AAB3-A32ACDC5611B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52FB3C63-01B9-4A0C-AAB3-A32ACDC5611B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{52FB3C63-01B9-4A0C-AAB3-A32ACDC5611B}.Debug|Win32.Build.0 = Debug|Win32
+		{52FB3C63-01B9-4A0C-AAB3-A32ACDC5611B}.Release|Win32.ActiveCfg = Release|Win32
+		{52FB3C63-01B9-4A0C-AAB3-A32ACDC5611B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
